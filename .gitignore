@@ -1,0 +1,7 @@
+.cproject
+.project
+.sconsign.dblite
+*.pyc
+build/
+bin/
+lib/
